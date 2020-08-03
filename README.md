@@ -1,1 +1,3 @@
 # NumPy
+
+NumPy working essetials
