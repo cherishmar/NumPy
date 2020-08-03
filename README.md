@@ -1,3 +1,3 @@
 # NumPy
 
-NumPy working essetials
+NumPy working essentials
